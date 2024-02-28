@@ -15,8 +15,8 @@ module.exports = {
 
       fontFamily: {
         heading: "Montserrat",
-        content: "PT Sans"
-      }
+        content: "Work Sans",
+      },
     },
   },
   plugins: [],
